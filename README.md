@@ -1,5 +1,13 @@
 # 💫 About Me:
-Hi there! 👋<br><br>I am a third-year Software Engineering student at the University of Waterloo, specializing in AI. I am passionate about creating innovative and impactful software solutions that tackle real-world problems and enhance user experiences.<br><br>In my most recent co-op term, I worked as a Software Engineering Intern at Secoda, a YC S21 company that helps data teams manage and document their data assets. I developed full-stack features across Secoda using React with Typescript and Python, worked on backend integrations to extract metadata from various sources, and worked in a fast-paced startup.<br><br>I am now joining Avante.io as a Full Stack Engineering Intern for my Winter 2024 co-op position. I will also be looking again for a co-op position for Fall 2024 in software engineering or a related field to apply and expand my skills, learn from experienced mentors, and contribute to meaningful projects. You can reach me at emizrahi@uwaterloo.ca to chat!
+Hi there! 👋
+
+I am a third-year Software Engineering student at the University of Waterloo, specializing in AI. I am passionate about creating innovative and impactful software solutions that tackle real-world problems and enhance user experiences.
+
+At my most recent co-op, runQL, I worked as a Software Engineering Intern. I enabled two-way Snowflake and Databricks integration, implemented search facets to ensure compliance, and introduced a new AWS and Docker staging environment.
+
+In previous co-op terms, I worked as a Software Engineering Intern at Secoda and Avante IO. I developed full-stack features using React, TypeScript, and Python, and integrated data tools like PowerBI and MySQL. At Avante.io, I led the development of Consili, a high-performance news summarization product leveraging Django, Postgres, and AWS. 
+
+You can reach me at emizrahi@uwaterloo.ca to chat!
 
 
 ## 🌐 Connect with me on LinkedIn:
